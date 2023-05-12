@@ -1,6 +1,6 @@
 # Mochila de viagem 🎒
 
-  Mochila de Viagem é um projeto criado durante um curso na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB, utilizando a linguagem JavaScript, o princpal objetivo do projeto envolve o armazenamento de irformações no navegador.
+  Mochila de Viagem é um projeto criado durante um curso na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB, utilizando a linguagem JavaScript, o princpal objetivo do projeto envolve o armazenamento de informações no navegador.
   
  ## 🚀 Começando
 
